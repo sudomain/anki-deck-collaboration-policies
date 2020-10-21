@@ -3,4 +3,3 @@ Policies and strategies for collaboration on Anki decks. These are the policies 
 
 TODO Topics:
 collaborative deck translations
-content inclusion policies
